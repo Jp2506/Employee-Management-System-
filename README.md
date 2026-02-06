@@ -71,6 +71,8 @@ The application follows a **client-server architecture**, where:
 ## 🖼️ Application Outputs
 
 ### Dashboard View
-```md
-![Dashboard](results/output1.png)
-![Dashboard](results/output2.png)
+## Dashboard View
+
+![Dashboard](https://raw.githubusercontent.com/Jp2506/Employee-Management-System-/main/results/output1.png)
+![Dashboard](https://raw.githubusercontent.com/Jp2506/Employee-Management-System-/main/results/output2.png)
+
